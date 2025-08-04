@@ -1,0 +1,14 @@
+C:\Users\Admin\Documents\Projects\CurseCSharp\bin\Debug\net9.0\CurseCSharp.exe
+C:\Users\Admin\Documents\Projects\CurseCSharp\bin\Debug\net9.0\CurseCSharp.deps.json
+C:\Users\Admin\Documents\Projects\CurseCSharp\bin\Debug\net9.0\CurseCSharp.runtimeconfig.json
+C:\Users\Admin\Documents\Projects\CurseCSharp\bin\Debug\net9.0\CurseCSharp.dll
+C:\Users\Admin\Documents\Projects\CurseCSharp\bin\Debug\net9.0\CurseCSharp.pdb
+C:\Users\Admin\Documents\Projects\CurseCSharp\obj\Debug\net9.0\CurseCSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\Projects\CurseCSharp\obj\Debug\net9.0\CurseCSharp.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\Projects\CurseCSharp\obj\Debug\net9.0\CurseCSharp.AssemblyInfo.cs
+C:\Users\Admin\Documents\Projects\CurseCSharp\obj\Debug\net9.0\CurseCSharp.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\Projects\CurseCSharp\obj\Debug\net9.0\CurseCSharp.dll
+C:\Users\Admin\Documents\Projects\CurseCSharp\obj\Debug\net9.0\refint\CurseCSharp.dll
+C:\Users\Admin\Documents\Projects\CurseCSharp\obj\Debug\net9.0\CurseCSharp.pdb
+C:\Users\Admin\Documents\Projects\CurseCSharp\obj\Debug\net9.0\CurseCSharp.genruntimeconfig.cache
+C:\Users\Admin\Documents\Projects\CurseCSharp\obj\Debug\net9.0\ref\CurseCSharp.dll
