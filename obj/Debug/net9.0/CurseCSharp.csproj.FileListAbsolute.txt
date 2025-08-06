@@ -12,3 +12,4 @@ C:\Users\Admin\Documents\Projects\CurseCSharp\obj\Debug\net9.0\refint\CurseCShar
 C:\Users\Admin\Documents\Projects\CurseCSharp\obj\Debug\net9.0\CurseCSharp.pdb
 C:\Users\Admin\Documents\Projects\CurseCSharp\obj\Debug\net9.0\CurseCSharp.genruntimeconfig.cache
 C:\Users\Admin\Documents\Projects\CurseCSharp\obj\Debug\net9.0\ref\CurseCSharp.dll
+C:\Users\Admin\Documents\Projects\CurseCSharp\obj\Debug\net9.0\CurseCSharp.sourcelink.json

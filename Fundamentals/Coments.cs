@@ -5,11 +5,11 @@ using System.Threading.Tasks;
 
 namespace CurseCSharp.Fundamentals
 {
-    public class FirstProgram
+    public class Coments
     {
         public static void Executar()
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Comentários // ou  /* */");
         }
     }
 }
