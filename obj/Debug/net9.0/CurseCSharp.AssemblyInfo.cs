@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CurseCSharp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7df13aecf7a7a7a51e30cce7c154687a2d0e64a8")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0c3ccfe9aef19e06d72041bc9760e6a826069bc2")]
 [assembly: System.Reflection.AssemblyProductAttribute("CurseCSharp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CurseCSharp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
