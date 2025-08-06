@@ -22,8 +22,6 @@ namespace CurseCSharp.Fundamentals
 
             CultureInfo cultura2 = new("en-US");
             Console.WriteLine(valor.ToString("C3", cultura2));
-
-            
         }
     }
 }
