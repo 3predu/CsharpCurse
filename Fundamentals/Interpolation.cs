@@ -16,7 +16,7 @@ namespace CurseCSharp.Fundamentals
             Console.WriteLine("O " + nome + " da marca"
             + marca + " custa =" + preco + ".");
             Console.WriteLine("O {0} da marca {1} custa {2}."
-            , nome, marca, preco);
+            , nome, marca, preco); // passando por indices {0} = nome, {1} = marca, {2} = preco
             Console.WriteLine($"O {nome} da marca {marca} custa {preco}.");
         }
     }
